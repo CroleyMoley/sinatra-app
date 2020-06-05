@@ -1,0 +1,16 @@
+current directory: /Users/tylercroley/sinatra-app/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -I /Library/Ruby/Site/2.3.0 -r ./siteconf20200605-99115-38iqia.rb extconf.rb
+
+current directory: /Users/tylercroley/sinatra-app/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/tylercroley/sinatra-app/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/tylercroley/sinatra-app/vendor/bundle/ruby/2.3.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
